@@ -1,3 +1,2 @@
 run = "bash start.sh"
-hidden = ["**/node_modules", "**/__pycache__"]
-
+entrypoint = "start.sh"
